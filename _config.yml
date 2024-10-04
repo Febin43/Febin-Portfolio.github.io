@@ -1,6 +1,6 @@
-title: 'Welcome to Febin\'s Portfolio'
+title: Welcome to Febin\'s Portfolio
 email: Febin_portfolio32@gmail.com
 description: "A showcase of my data science projects and skills."
-markdown: kramdown
+#show downloads: true
 theme: jekyll-theme-minimal # or any theme you prefer
 
