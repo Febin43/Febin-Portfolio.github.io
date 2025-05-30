@@ -20,7 +20,7 @@
 
 - #### Goal: Explore Netflix data to find trends in show popularity and viewer behavior.
  
--  Summary: Cleaned and visualized data on Netflix shows to identify top genres, release trends, and rating distributions, Gained insights into what types of content perform best over time.
+-  ####Summary: Cleaned and explored Netflix dataset using Pandas. Created visualizations with Matplotlib and Seaborn to reveal top genres, release trends, and viewer ratings over time. Handled missing data and provided clear insights into popular content patterns.
     
 - **Tools Used:** Pandas, Seaborn, Matplotlib
 
@@ -33,7 +33,7 @@
 
 - #### Goal: Predict passenger survival using Titanic dataset features.
   
-- #### Summary: Cleaned data, explored key patterns, built and compared models, found Random Forest to be most accurate.
+- #### Summary:Built and compared multiple machine learning models (Random Forest, Logistic Regression, Decision Tree) to predict passenger survival. Performed data cleaning, feature engineering, and exploratory data analysis to understand key survival factors. Evaluated models using accuracy scores and concluded Random Forest gave the best results.
   
 - **Tools Used:** Pandas, Scikit-learn, Matplotlib  
 
