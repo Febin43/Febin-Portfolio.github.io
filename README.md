@@ -1,4 +1,4 @@
-#  Data Analyst - Project Portfolio
+#  Febin - Data Analyst Project Portfolio
 ## About me
  Hi, I'm Febin. I'm a self-taught learner with a strong interest in data analysis and problem solving. Over the past three years, I’ve been learning data science through online courses and working on real projects to build my skills. I enjoy exploring data, finding useful insights, and making sense of complex information in a simple way. I'm focused on improving every day by practicing, building projects, and learning new tools. My goal is to work on meaningful data problems and keep growing as a data analyst.
 
