@@ -24,7 +24,8 @@
     
 - **Tools Used:** Pandas, Seaborn, Matplotlib
 
-- **Key Insights:** Identified peak viewing times and most-watched genres.  
+- **Key Insights:** Identified peak viewing times and most-watched genres.
+
 🔗 [View Project](https://github.com/Febin43/netflix-shows-analysis)
 
 ---
@@ -37,7 +38,8 @@
   
 - **Tools Used:** Pandas, seaborn, Scikit-learn, Matplotlib  
 
-- **Key Insights:** Random Forest model achieved the highest accuracy in predictions.  
+- **Key Insights:** Random Forest model achieved the highest accuracy in predictions.
+  
 🔗 [View Project](https://github.com/Febin43/Titanic-Survival-Prediction/tree/main)
 
 ---
