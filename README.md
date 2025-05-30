@@ -35,7 +35,7 @@
   
 - **Summary**: Built and compared multiple machine learning models (Random Forest, Logistic Regression, Decision Tree) to predict passenger survival. Performed data cleaning, feature engineering, and exploratory data analysis to understand        key survival factors. Evaluated models using accuracy scores and concluded Random Forest gave the best results.
   
-- **Tools Used:** Pandas, Scikit-learn, Matplotlib  
+- **Tools Used:** Pandas, seaborn, Scikit-learn, Matplotlib  
 
 - **Key Insights:** Random Forest model achieved the highest accuracy in predictions.  
 🔗 [View Project](https://github.com/Febin43/Titanic-Survival-Prediction/tree/main)
