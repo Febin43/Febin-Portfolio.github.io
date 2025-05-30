@@ -33,7 +33,7 @@
 
 - #### Goal: Predict passenger survival using Titanic dataset features.
   
--  Summary:Built and compared multiple machine learning models (Random Forest, Logistic Regression, Decision Tree) to predict passenger survival. Performed data cleaning, feature engineering, and exploratory data analysis to understand key survival factors. Evaluated models using accuracy scores and concluded Random Forest gave the best results.
+-  Summary: Built and compared multiple machine learning models (Random Forest, Logistic Regression, Decision Tree) to predict passenger survival. Performed data cleaning, feature engineering, and exploratory data analysis to understand key survival factors. Evaluated models using accuracy scores and concluded Random Forest gave the best results.
   
 - **Tools Used:** Pandas, Scikit-learn, Matplotlib  
 
