@@ -20,7 +20,7 @@
 
 - #### Goal: Explore Netflix data to find trends in show popularity and viewer behavior.
  
-- ### Summary: Cleaned and visualized data on Netflix shows to identify top genres, release trends, and rating distributions.
+- #### Summary: Cleaned and visualized data on Netflix shows to identify top genres, release trends, and rating distributions.
   Gained insights into what types of content perform best over time.
     
 - **Tools Used:** Pandas, Seaborn, Matplotlib
