@@ -16,6 +16,7 @@ Hi, I'm Febin. I've dedicated the past three years to learning data science thro
 ## 📊 Projects
 
 ## 1. Netflix Shows Analysis
+
 - ### Analyzed Netflix viewing data to understand user preferences, popular genres, and viewing patterns over time.
     
 - **Tools Used:** Pandas, Seaborn, Matplotlib
@@ -25,7 +26,7 @@ Hi, I'm Febin. I've dedicated the past three years to learning data science thro
 
 ---
 
-### 2. Titanic Survival Prediction
+## 2. Titanic Survival Prediction
 - ## Developed models to predict passenger survival on the Titanic using various features.  
 **Tools Used:** Pandas, Scikit-learn, Matplotlib  
 **Key Insights:** Random Forest model achieved the highest accuracy in predictions.  
