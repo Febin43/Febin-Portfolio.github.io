@@ -53,8 +53,6 @@ Aim to analyze global COVID-19 trends, case counts, and visualize the impact ove
 
 ## 🏆 Certificates
 
-These certificates reflect my consistent effort to grow and apply real-world data science skills:
-
 - [HarvardX: Data Science Professional Certificate](https://credentials.edx.org/credentials/your_certificate_id)  
   *(Completed after three years of dedicated study, covering data wrangling, visualization, probability, inference, modeling, and machine learning.)*
 
