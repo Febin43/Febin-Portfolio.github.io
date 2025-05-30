@@ -17,7 +17,7 @@
 
 ## 1. Netflix Shows Analysis
 
-- ### Analyzed Netflix viewing data to understand user preferences, popular genres, and viewing patterns over time.
+- #### Analyzed Netflix viewing data to understand user preferences, popular genres, and viewing patterns over time.
     
 - **Tools Used:** Pandas, Seaborn, Matplotlib
 
