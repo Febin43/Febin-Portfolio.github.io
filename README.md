@@ -20,7 +20,7 @@
 
 - #### Goal: Explore Netflix data to find trends in show popularity and viewer behavior.
  
--  Summary: Cleaned and explored Netflix dataset using Pandas. Created visualizations with Matplotlib and Seaborn to reveal top genres, release trends, and viewer ratings over time. Handled missing data and provided clear insights into popular content patterns.
+- **Summary**: Cleaned and explored Netflix dataset using Pandas. Created visualizations with Matplotlib and Seaborn to reveal top genres, release trends, and viewer ratings over time. Handled missing data and provided clear insights into popular content patterns.
     
 - **Tools Used:** Pandas, Seaborn, Matplotlib
 
