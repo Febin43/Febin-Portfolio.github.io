@@ -15,11 +15,11 @@ Hi, I'm Febin. I've dedicated the past three years to learning data science thro
 
 ## 📊 Projects
 
-### 1. Netflix User Behavior Analysis
+### 1. Netflix Shows Analysis
 Analyzed Netflix viewing data to understand user preferences, popular genres, and viewing patterns over time.  
 **Tools Used:** Pandas, Seaborn, Matplotlib  
 **Key Insights:** Identified peak viewing times and most-watched genres.  
-🔗 [View Project](https://github.com/your_username/netflix-analysis)
+🔗 [View Project](https://github.com/Febin43/netflix-shows-analysis)
 
 ---
 
@@ -27,7 +27,7 @@ Analyzed Netflix viewing data to understand user preferences, popular genres, an
 Developed models to predict passenger survival on the Titanic using various features.  
 **Tools Used:** Pandas, Scikit-learn, Matplotlib  
 **Key Insights:** Random Forest model achieved the highest accuracy in predictions.  
-🔗 [View Project](https://github.com/your_username/titanic-survival)
+🔗 [View Project](https://github.com/Febin43/Titanic-Survival-Prediction/tree/main)
 
 ---
 
