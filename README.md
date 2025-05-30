@@ -53,7 +53,7 @@ These certificates reflect my consistent effort to grow and apply real-world dat
 
 ---
 
-## Contact me
+## Contacts
 
 I'm open to collaboration, feedback, or any discussions related to data science. Feel free to reach out:
 
