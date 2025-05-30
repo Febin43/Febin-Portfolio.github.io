@@ -1,6 +1,6 @@
 #  Data Analyst - Project Portfolio
 # About me
-### Hi, I'm Febin. I've dedicated the past three years to learning data science through various online courses and hands-on projects. My focus is on analyzing data, uncovering patterns, and deriving meaningful insights.
+ Hi, I'm Febin. I've dedicated the past three years to learning data science through various online courses and hands-on projects. My focus is on analyzing data, uncovering patterns, and deriving meaningful insights.
 
 ---
 
@@ -27,15 +27,20 @@
 ---
 
 ## 2. Titanic Survival Prediction
-- ## Developed models to predict passenger survival on the Titanic using various features.  
-**Tools Used:** Pandas, Scikit-learn, Matplotlib  
-**Key Insights:** Random Forest model achieved the highest accuracy in predictions.  
+
+- ### Developed models to predict passenger survival on the Titanic using various features.
+  
+- **Tools Used:** Pandas, Scikit-learn, Matplotlib  
+
+- **Key Insights:** Random Forest model achieved the highest accuracy in predictions.  
 🔗 [View Project](https://github.com/Febin43/Titanic-Survival-Prediction/tree/main)
 
 ---
 
-### 3. Customer Segmentation (Upcoming)
-Plan to implement clustering techniques to segment customers based on purchasing behavior.  
+## 3. Customer Segmentation (Upcoming)
+
+- Plan to implement clustering techniques to segment customers based on purchasing behavior.
+
 **Planned Tools:** Pandas, KMeans, Seaborn
 
 ---
