@@ -16,9 +16,11 @@ Hi, I'm Febin. I've dedicated the past three years to learning data science thro
 ## 📊 Projects
 
 ## 1. Netflix Shows Analysis
-- ### Analyzed Netflix viewing data to understand user preferences, popular genres, and viewing patterns over time.  
-### **Tools Used:** Pandas, Seaborn, Matplotlib  
-### **Key Insights:** Identified peak viewing times and most-watched genres.  
+- ### Analyzed Netflix viewing data to understand user preferences, popular genres, and viewing patterns over time.
+    
+- **Tools Used:** Pandas, Seaborn, Matplotlib
+
+- **Key Insights:** Identified peak viewing times and most-watched genres.  
 🔗 [View Project](https://github.com/Febin43/netflix-shows-analysis)
 
 ---
