@@ -6,7 +6,8 @@
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+- **Programming Languages:** Python (Pandas, NumPy, Scikit-learn), SQL
+- **vizulisation:** Matplotlib, Seaborn, power Bi
 - **Data Handling:** Data Cleaning, Preprocessing, Exploratory Data Analysis (EDA)
 - **Machine Learning:** Classification Models, Model Evaluation
 - **Tools:** Jupyter Notebooks, GitHub
