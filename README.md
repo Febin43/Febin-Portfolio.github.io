@@ -31,7 +31,7 @@
 
 - #### Goal: Predict passenger survival using Titanic dataset features.
   
-- ### Summary: Cleaned data, explored key patterns, built and compared models, found Random Forest to be most accurate.
+- #### Summary: Cleaned data, explored key patterns, built and compared models, found Random Forest to be most accurate.
   
 - **Tools Used:** Pandas, Scikit-learn, Matplotlib  
 
