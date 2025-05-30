@@ -28,7 +28,7 @@
 
 ## 2. Titanic Survival Prediction
 
-- ### Developed models to predict passenger survival on the Titanic using various features.
+- #### Developed models to predict passenger survival on the Titanic using various features.
   
 - **Tools Used:** Pandas, Scikit-learn, Matplotlib  
 
