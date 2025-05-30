@@ -1,4 +1,4 @@
-#  Data Analyst-Portfolio
+#  Data Analyst- Project Portfolio
 # about me
 Hi, I'm Febin. I've dedicated the past three years to learning data science through various online courses and hands-on projects. My focus is on analyzing data, uncovering patterns, and deriving meaningful insights.
 
