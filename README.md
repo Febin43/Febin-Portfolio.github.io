@@ -44,9 +44,8 @@
 
 ---
 
-## 3. Customer Segmentation (Upcoming)
 
-- ## 3. Mall Customer Segmentation
+ ## 3. Mall Customer Segmentation
 
 - **Goal**: Segment mall customers using K‑Means clustering based on Age, Annual Income, and Spending Score.
  
@@ -56,7 +55,7 @@
 
 - **Key Insight**: Four distinct customer segments identified (e.g., “High‑income/High‑spenders”); gender split is balanced; spending behavior shows outliers worth targeting.
  
-- **[View Project & Code →](https://github.com/Febin43/Customer-Segmentation)**
+  🔗 [View Project & Code →](https://github.com/Febin43/Customer-Segmentation)
 
 
 ---
