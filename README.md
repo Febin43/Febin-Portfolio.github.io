@@ -46,16 +46,16 @@
 
 ## 3. Customer Segmentation (Upcoming)
 
-- ## 3. Customer Segmentation
+- ## 3. Mall Customer Segmentation
 
 - **Goal**: Segment mall customers using K‑Means clustering based on Age, Annual Income, and Spending Score.
-- 
+ 
 - **Summary**: Loaded and cleaned dataset, performed full EDA (count/pie, histograms, box plot, pairplot, heatmap), scaled features, determined optimal clusters (Elbow + Silhouette), applied K‑Means with k=4, visualized in 2D/3D, and profiled clusters for insights.
-- 
+  
 - **Tools Used**: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit‑learn, Plotly
-- 
+
 - **Key Insight**: Four distinct customer segments identified (e.g., “High‑income/High‑spenders”); gender split is balanced; spending behavior shows outliers worth targeting.
-- 
+ 
 - **[View Project & Code →](https://github.com/Febin43/Customer-Segmentation)**
 
 
